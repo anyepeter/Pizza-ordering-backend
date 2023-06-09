@@ -15,5 +15,4 @@ Things you may want to cover:
 
 * Database initialization
 
-* Services (job queues, cache servers, search engines, etc.)
 
